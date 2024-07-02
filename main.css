@@ -172,6 +172,7 @@
 
         /*media query*/
         @media (max-width:800px) {
+		#icon{height:15px;}
             #categories:checked ~ .con2{visiblity:hidden;}
             #close{position:fixed;left:5px;top:420px;}
             #close1{position:fixed;top:0;left:0px;font-size:55px;color:white;}
